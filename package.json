@@ -1,6 +1,6 @@
 {
-  "name": "react-native-azure-ad-2",
-  "version": "1.0.5",
+  "name": "rn-azure-adv2",
+  "version": "1.0.0",
   "description": "A React Native module for Azure AD enpoint version 2. This module implement Azure AD authentication using pure React-Native with no others lib. require",
   "main": "lib/index.js",
   "scripts": {
@@ -9,22 +9,25 @@
   "dependencies": {
     "buffer": "^5.0.0",
     "query-string": "^4.2.3",
+    "react-native-webview": "^7.5.2",
     "url": "^0.11.0",
     "uuid": "^2.0.3"
   },
   "keywords": [
+    "React",
+    "React Native",
     "AzureAD",
     "Microsoft Account",
     "Microsoft Authentication"
   ],
-  "author": "maxzitron",
+  "author": "smartameer",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/seedtech/react-native-azure-ad-2.git"
+    "url": "git+https://github.com/smartameer/rn-azure-adv2.git"
   },
   "bugs": {
-    "url": "https://github.com/seedtech/react-native-azure-ad-2/issues"
+    "url": "https://github.com/smartameer/rn-azure-adv2/issues"
   },
-  "homepage": "https://github.com/seedtech/react-native-azure-ad-2#readme"
+  "homepage": "https://github.com/smartameer/rn-azure-adv2#readme"
 }
