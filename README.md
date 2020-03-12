@@ -9,3 +9,7 @@ yarn add rn-azure-adv2
 
 This is a strict copy of [shedaltd/react-native-azure-ad-2](https://github.com/shedaltd/react-native-azure-ad-2)
 
+
+### NOTE:
+
+- Added Login hint where you can set email id and go directly to password screen
